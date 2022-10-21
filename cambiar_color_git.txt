@@ -1,0 +1,2 @@
+git config --global color.branch auto; git config --global color.branch.current green; git config --global color.branch.local yellow; git config --global color.branch.remote red; git config --global color.status.added blue; git config --global color.status.changed yellow; git config --global color.status.branch green; git config --global color.status.localBranch green; git config --global color.status.remoteBranch green
+
